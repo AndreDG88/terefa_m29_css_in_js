@@ -3,7 +3,7 @@ import styled from 'styled-components'
 export const Form = styled.form`
   height: 360px;
   width: 100%;
-  background-image: url('https://cdn.pixabay.com/photo/2018/08/10/15/45/woman-3597101_1280.jpg');
+  background-image: url('https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif');
   background-size: cover;
   position: relative;
   display: flex;
@@ -23,7 +23,8 @@ export const Form = styled.form`
   div {
     position: relative;
     color: ${(props) => props.theme.CorTextoHero};
-    font-family: Gloock, serif;
+    font-family: Lato, serif;
+    font-weight: bold;
     font-size: 28px;
   }
 
@@ -38,6 +39,7 @@ export const Form = styled.form`
 `
 
 export const HeroTitle = styled.h2`
-  font-family: Gloock, serif;
+  font-family: Lato, serif;
+  font-weight: bold;
   font-size: 48px;
 `

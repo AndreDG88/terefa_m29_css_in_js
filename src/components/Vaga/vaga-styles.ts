@@ -31,7 +31,7 @@ export const TituloDaVaga = styled.h3`
 export const LinkDaVaga = styled.a`
   border-color: ${(props) => props.theme.corSecundaria};
   background-color: ${(props) => props.theme.corPrincipal};
-  color: ${(props) => props.theme.corSecundaria};
+  color: ${(props) => props.theme.CorTextoHero};
   display: inline-block;
   padding: 8px 16px;
   text-decoration: none;

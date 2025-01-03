@@ -15,7 +15,7 @@ export const BtnPesquisar = styled.button`
   height: 40px;
   padding: 0 16px;
   font-size: 18px;
-  color: ${(props) => props.theme.corSecundaria};
+  color: ${(props) => props.theme.CorTextoHero};
   margin-left: 8px;
   cursor: pointer;
 `
