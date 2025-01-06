@@ -1,6 +1,6 @@
 const temaOriginal = {
-  corPrincipal: '#52057b',
-  corSecundaria: '#bffff3',
+  corPrincipal: '#a7727d',
+  corSecundaria: '#f9f5e7',
   CorTextoHero: '#eee'
 }
 
